@@ -1,0 +1,62 @@
+#spanOne{
+    color: rgb(243, 243, 243);
+    font-family: 'Poppins Medium';
+    font-size: 84px;
+    background-color: rgb(34, 34, 34);
+}
+
+p{
+    font-size: 24px;
+}
+
+#header{
+    color: rgb(34, 34, 34);
+    font-size: 84px;
+    font-family: 'Poppins Medium';
+    margin: 0;
+}
+
+#main{
+    position: relative;
+    display: inline-block;
+}
+
+.icon{
+    display: block;
+    margin-bottom: 40px;
+    height: 32px;
+    width: 32px;
+}
+
+#copyright p{
+    font-size: 16px;
+    margin-top: 80px;
+    float: right;
+
+}
+
+#iconBox{
+    display: inline-block;
+    float: right;
+}
+
+#special p{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+#special hr{
+    width: 32px;
+    display: inline-block;
+}
+
+body{
+    padding: 0px;
+    font-family: 'Poppins Light';
+    margin-top: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
+    background: rgb(248, 248, 248);
+}
